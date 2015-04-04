@@ -5,8 +5,8 @@ elixir(function(mix) {
     mix.less("style.less", "assets/css");
 
     mix.scripts([
-    	"libs/jquery/jquery.js",
-    	"libs/bootstrap/bootstrap.js",
+    	"jquery/jquery.min.js",
+    	"bootstrap/bootstrap.min.js",
     	"app.js"
     ], "assets/js", "resources/assets/js");
 
