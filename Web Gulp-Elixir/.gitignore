@@ -1,0 +1,4 @@
+node_modules
+.bowerrc
+bower.json
+*.log

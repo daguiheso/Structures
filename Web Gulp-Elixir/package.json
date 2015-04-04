@@ -1,0 +1,13 @@
+{
+  "name": "Web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web",
+  "author": "Daniel Hernandez <danielhernandez16@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "laravel-elixir": "^0.13.1",
+    "less": "^2.4.0"
+  }
+}
