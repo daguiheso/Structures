@@ -1,0 +1,14 @@
+{
+  "name": "A-la-Mesa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A la Mesa",
+  "author": "Daniel Hernandez <danielhernandez16@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-livereload": "^3.8.0",
+    "laravel-elixir": "^2.3.12",
+    "less": "^2.5.1"
+  }
+}
