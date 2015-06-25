@@ -11,6 +11,8 @@ elixir(function(mix) {
 
 
   mix.scripts([
+    "lib/jquery/jquery.js",
+    "lib/bootstrap/bootstrap.js",
     "lib/angular/angular.js",
     "lib/angular-route/angular-route.js",
     "lib/angular-mocks/angular-mocks.js",
