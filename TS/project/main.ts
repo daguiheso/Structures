@@ -8,6 +8,7 @@ class Usuarios {
             name : name,
             age : age
         }
+        console.log(this.usuario)
     }
 }
 
