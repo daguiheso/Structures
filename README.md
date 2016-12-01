@@ -1,11 +1,12 @@
 # Structures
 Structures Projects
 
-Angular-Gulp
-Angular
-Gulp-Elixir
-Web ecma6
-  - brouserify
+* Angular-Gulp
+* Angular
+* Gulp-Elixir
+* Web ecma6
+* Web fukk 
+  - browserify
   - babel-preset-es2015
   - babel-eslint
   - babelify
