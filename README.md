@@ -5,7 +5,7 @@ Structures Projects
 * Angular
 * Gulp-Elixir
 * Web ecma6
-* Web fukk 
+* Web full
   - browserify
   - babel-preset-es2015
   - babel-eslint
